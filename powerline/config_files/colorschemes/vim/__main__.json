@@ -19,6 +19,7 @@
 		"winnr":              "information:unimportant",
 		"tabnr":              "file_directory",
 		"capslock_indicator": "paste_indicator",
+		"wakatime":           "wakatime",
 
 		"csv:column_number": "line_current",
 		"csv:column_name":   "line_current_symbol",

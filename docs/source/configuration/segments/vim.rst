@@ -44,3 +44,9 @@ Capslock segments
 
 .. automodule:: powerline.segments.vim.plugin.capslock
    :members:
+
+WakaTime segments
+-----------------
+
+.. automodule:: powerline.segments.vim.plugin.wakatime
+   :members:
